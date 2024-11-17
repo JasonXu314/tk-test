@@ -1,5 +1,1 @@
 changed text
-// TODO: [zecz3fq4] hi asdf
-// TODO: [s22t0039] new todo test
-// TODO: [e4c067uq] random stuff
-// BUG: [u2d6zjw2] fix bug
